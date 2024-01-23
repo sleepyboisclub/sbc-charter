@@ -1,7 +1,14 @@
 # Mission Statement
 
-The mission of the SBC is:
+The Mission of the SBC is:
 
-To find meaning in connecting to self and other through the revival of sincerity in third places and the optimistic exploration of philosophy and kindness.
+> To seek meaning as a defiant act against hopelessness, loneliness, and emptiness.
+
+The Vision of the SBC is:
+
+> To forge a path forward in the search for meaning by reviving sincerity in third places.
+
+\
+
 
 \
