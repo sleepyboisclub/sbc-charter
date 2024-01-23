@@ -6,9 +6,9 @@
 
 the _seemingly_ evident absurdity and meaninglessness in the world
 
-the pervasive vicissitudes of loneliness, hopelessness, and emptiness
+the pervasive pains of loneliness, hopelessness, and emptiness
 
-and the inefficacy of prominent modern ideologies–which are tainted by the interests of entities which benefit from its perpetuation–in resolving the disquietude caused by the illusion of sense and nonsense alike
+and the failures of prominent modern ideologies–tainted by the interests of entities which benefit from its perpetuation–in resolving the discontentment caused by the illusion of sense and nonsense alike
 
 **ASSERT**
 
@@ -20,4 +20,4 @@ and that magnanimous and impartial kindness is essential to but presently absent
 
 **FORGE A PATH FORWARD IN THE PURSUIT OF MEANING**&#x20;
 
-through the establishment of this community where individuals may safely seek meaning, purpose, and fulfillment by facilitating connection to the Self and the Other and bringing sincerity to third places in the optimistic exploration and practice of philosophy and kindness.
+through the establishment of this community where, _with a spirit of defiance against and a knowing smile for the adversities of the human experience_, individuals may safely seek meaning, purpose, and fulfillment by facilitating connection to the Self and the Other and bringing sincerity to third places in the optimistic exploration and practice of philosophy and kindness.
