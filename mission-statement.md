@@ -2,4 +2,4 @@
 
 The Mission of the SBC is:
 
-> To seek meaning as a defiant act against hopelessness, loneliness, and emptiness.
+> To be a community where individuals connect to the Self and the Other by reviving sincerity in third places in the optimistic exploration and practice of philosophy and kindness.
