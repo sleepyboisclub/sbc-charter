@@ -1,7 +1,8 @@
 # Table of contents
 
 * [📜 The Sleepy Bois Club Charter](README.md)
-* [Preamble](<README (1).md>)
+* [Preamble](preamble-old.md)
+* [Preamble](preamble.md)
 * [Mission Statement](mission-statement.md)
 * [Membership](membership-criteria-and-responsibilities.md)
 * [Leadership Structure](leadership-structure.md)
