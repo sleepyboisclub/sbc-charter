@@ -1,6 +1,6 @@
 # Leadership Structure
 
-The SBC operates under and by direction of its Executive Committee, comprising all elected club officers, which bears the responsibility of fulfilling the [SBC Mission](https://docs.google.com/document/d/1rYzyi2lL5mu1zZwvimI\_48eSwcOZSUxjt-ZNeum5QcY/edit#heading=h.qa5ndbktrlt4) according to the desires of club membership.
+The SBC operates under and by direction of its Executive Committee, comprising all elected club officers, which bears the responsibility of fulfilling the [Club Mission](mission-statement.md) according to the desires of club membership.
 
 ### Offices
 
@@ -8,7 +8,7 @@ Description of duties of each office.
 
 #### President
 
-* Facilitates or designates a facilitator for all club meetings, [Unanimous Croaks](https://docs.google.com/document/d/1XernRVKe4QxJDk0ka3EtGjtw3ZFzgvzVMG3F9Dj3Wpg/edit#heading=h.6h2hiean8lgl)
+* Facilitates or designates a facilitator for all club meetings and [Unanimous Croaks](decision-making-process.md#unanimous-croak)
 * In the case of vacancy, fulfills the duties of the Vice President, Treasurer, Membership Chair, and Public Relations Representative
 
 #### Vice President
@@ -18,7 +18,7 @@ Description of duties of each office.
 
 #### Secretary
 
-* Keeps a permanent record of minutes of all club and Executive Committee meetings; [Unanimous Croaks](https://docs.google.com/document/d/1XernRVKe4QxJDk0ka3EtGjtw3ZFzgvzVMG3F9Dj3Wpg/edit#heading=h.6h2hiean8lgl), successful or not; and dissent and reservations during Unanimous Croaks.
+* Keeps a permanent record of minutes of all club and Executive Committee meetings; [Unanimous Croaks](decision-making-process.md#unanimous-croak), successful or not; and dissent and reservations during Unanimous Croaks.
 * In the case of absence, fulfills the duties of the Historian
 
 #### Treasurer
@@ -43,7 +43,7 @@ Description of duties of each office.
 
 #### Historian
 
-* Keeps a permanent record of all official club croaks, including club administration changes; official club meetups, posts, and events; Sleepy Boi Kings; and any other notes of interest in club history.
+* Keeps a permanent record of all official club croaks, including club administration changes; official club [Croaks](meetings-and-communication.md#croaks-meetups), posts ([croaks](meetings-and-communication.md#croaking-communication)), and events ([Croaks](meetings-and-communication.md#croaks-public-events)); [Sleepy Boi Kings](decision-making-process.md#election-croak-of-the-sleepy-boi-king); and any other notes of interest in club history.
 
 #### Public Relations Representative
 
@@ -57,7 +57,7 @@ Given that the club operates on volunteer efforts, some offices may be vacant. I
 
 All SBC participation is voluntary. As such, SBC offices are appointed by way of volition and not by way of delegation or nomination. All members are encouraged to volunteer as club officers.
 
-Officers are croaked in at the [Annual Croak of Election](https://docs.google.com/document/d/19cXujNa3A67xv-A6GMpLCIp\_eGhsStdJFnyF0PZvOP0/edit#heading=h.ngbu1s3ee4g), or as necessary by [Unanimous Croak](https://docs.google.com/document/d/1XernRVKe4QxJDk0ka3EtGjtw3ZFzgvzVMG3F9Dj3Wpg/edit#heading=h.6h2hiean8lgl) in the case of vacancy.
+Officers are croaked in at the [Annual Croak of Election](meetings-and-communication.md#annual-croak-of-election), or as necessary by [Unanimous Croak](decision-making-process.md#unanimous-croak) in the case of vacancy.
 
 In order to be eligible to hold office, candidates must:
 
@@ -67,10 +67,10 @@ In order to be eligible to hold office, candidates must:
 
 ### Term of Office
 
-Officers hold their title for a period of one year, which begins immediately after the [Annual Croak of Election](https://docs.google.com/document/d/19cXujNa3A67xv-A6GMpLCIp\_eGhsStdJFnyF0PZvOP0/edit#heading=h.ngbu1s3ee4g).
+Officers hold their title for a period of one year, which begins immediately after the [Annual Croak of Election](meetings-and-communication.md#annual-croak-of-election).
 
 Officers who are croaked in at any time outside of the Annual Croak of Election hold their office until the next Annual Croak of Election.
 
 ### Removal from Office
 
-Any member may present a Proposal for impeachment croak at any time, whereby an officer may be removed by [Unanimous Croak](https://docs.google.com/document/d/1XernRVKe4QxJDk0ka3EtGjtw3ZFzgvzVMG3F9Dj3Wpg/edit#heading=h.6h2hiean8lgl). In the case of an impeachment croak, only non-leader members may participate in the croak.
+Any member may present a [proposal](decision-making-process.md#proposals) for impeachment croak at any time, whereby an officer may be removed by [Unanimous Croak](decision-making-process.md#unanimous-croak). In the case of an impeachment croak, only non-leader members may participate in the croak.

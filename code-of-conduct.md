@@ -1,10 +1,10 @@
 # Code of Conduct
 
-The SBC Code of Conduct is governed by the [Club Mission](https://docs.google.com/document/d/1rYzyi2lL5mu1zZwvimI\_48eSwcOZSUxjt-ZNeum5QcY/edit#heading=h.qa5ndbktrlt4), at its core, facilitating _connection_, _sincerity_, and _kindness_. Let these be the guiding principles for the conduct of all Sleepy Bois.
+The SBC Code of Conduct is governed by the [Club Mission](mission-statement.md), at its core, facilitating _connection_, _sincerity_, and _kindness_. Let these be the guiding principles for the conduct of all Sleepy Bois.
 
 ## Intentions of Conduct
 
-A comprehensive list of behavioral rules is incongruent with the subjective nature of the Club Mission and the optimism upon which the club is founded. Instead of creating stipulations for worst-case scenarios, this section outlines the intentions for SBC conduct. \[💀 _Call it wishful thinking because it is._]
+A comprehensive list of behavioral rules is incongruent with the subjective nature of the [Club Mission](mission-statement.md) and the optimism upon which the club is founded. Instead of creating stipulations for worst-case scenarios, this section outlines the intentions for SBC conduct. \[💀 _Call it wishful thinking because it is._]
 
 SBC participants should conduct themselves with the following intentions:
 

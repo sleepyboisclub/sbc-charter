@@ -10,7 +10,7 @@ Charter version history: [https://github.com/sleepyboisclub/sbc-charter/commits/
 
 ### Signers of this version of the Charter
 
-* Names
+* Signatures
 * of
 * signers
 * here
