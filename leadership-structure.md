@@ -1,57 +1,38 @@
 # Leadership Structure
 
-The SBC operates under and by direction of its Executive Committee, comprising all elected club officers, which bears the responsibility of fulfilling the [Club Mission](mission-statement.md) according to the desires of club membership.
+The SBC operates under and by direction of its Executive Committee, comprising all elected club officers, which bears the responsibility of fulfilling the [SBC Mission](mission-statement.md) according to the desires of club membership.
 
-### Offices
+### Officers and Committees
 
-Description of duties of each office.
+Given that the SBC operates on volunteer efforts and limited resources, the structure of club leadership is mostly undefined to avoid an excessive number of vacant offices.
 
-#### President
+Members are encouraged to volunteer as club officers, taking responsibility for any combination of club operations and creating a title of office fitting to the responsibilities undertaken. The club President–the only necessary SBC office–takes accountability for the success of all officers and officer duties.
 
-* Facilitates or designates a facilitator for all club meetings and [Unanimous Croaks](decision-making-process.md#unanimous-croak)
-* In the case of vacancy, fulfills the duties of the Vice President, Treasurer, Membership Chair, and Public Relations Representative
+Individuals who do not wish to form part of the Executive Committee but would like to contribute to achieving the [Club Mission](mission-statement.md) may participate in an ad hoc committee. A committee may include non-member individuals but a committee head must be a member and elected by [Unanimous Croak](decision-making-process.md#unanimous-croak).
 
-#### Vice President
+#### Club Operations
 
-* Acts for the President upon request or in their absence
-* In the case of absence, fulfills the duties of the Communications Chair, Program Chair, and Secretary
-
-#### Secretary
-
-* Keeps a permanent record of minutes of all club and Executive Committee meetings; [Unanimous Croaks](decision-making-process.md#unanimous-croak), successful or not; and dissent and reservations during Unanimous Croaks.
-* In the case of absence, fulfills the duties of the Historian
-
-#### Treasurer
-
-* Receives and handles all club money
-* Keeps an accurate record of all financial transactions
-
-#### Membership Chair
-
-* Plans welcome activities and onboarding for new members with the Program Chair
-* Maintains a membership list and encourages members enroll in communications services
-* May solicit members by requesting payment of club membership dues
-
-#### Communications Chair
-
-* Writes/edits communications including newsletters, invitations, and broadcast emails
-* Coordinates the maintenance of SBC digital third places
-
-#### Program Chair
-
-* Plans and organizes events
-
-#### Historian
-
-* Keeps a permanent record of all official club croaks, including club administration changes; official club [Croaks](meetings-and-communication.md#croaks-meetups), posts ([croaks](meetings-and-communication.md#croaking-communication)), and events ([Croaks](meetings-and-communication.md#croaks-public-events)); [Sleepy Boi Kings](decision-making-process.md#election-croak-of-the-sleepy-boi-king); and any other notes of interest in club history.
-
-#### Public Relations Representative
-
-* Maintain relationships and increase engagement with community partners
-
-#### Vacant Offices
-
-Given that the club operates on volunteer efforts, some offices may be vacant. In the case of vacancy, officer duties are delegated upward to the accountable officer. In order for an office to be occupied, the office to which its responsibilities delegate must not be vacant.
+* Executive Administration (President)
+  * Accountable for the success of all officers and officer duties.
+  * Facilitates or designates a facilitator for all club meetings, [Unanimous Croaks](decision-making-process.md#unanimous-croak)
+* Secretarial Administration
+  * Keeps a permanent record of minutes of all club and Executive Committee meetings; [Unanimous Croaks](decision-making-process.md#unanimous-croak), successful or not; and dissent and reservations during Unanimous Croaks.
+* Treasury
+  * Receives and handles all club money
+  * Keeps an accurate record of all financial transactions
+* Membership
+  * In charge of onboarding for new members
+  * Maintains a membership list and encourages members enroll in communications services
+  * May solicit members by requesting payment of club membership dues
+* Communications
+  * Writes/edits communications including newsletters, invitations, and broadcast emails
+  * Coordinates the maintenance of SBC digital third places
+* Programming
+  * Plans and organizes events that align with the Club Mission
+* Public Relations
+  * Maintain relationships and increase engagement with community partners
+* History
+  * Keeps a permanent record of all official club croaks, including club administration changes; official club meetups, posts, and events; Sleepy Boi Kings; and any other notes of interest in club history.
 
 ### Officer Election
 
@@ -63,11 +44,10 @@ In order to be eligible to hold office, candidates must:
 
 1. Be an active club member
 2. Have been a club member for at least seven months
-3. Hold only one club office at any given time
 
 ### Term of Office
 
-Officers hold their title for a period of one year, which begins immediately after the [Annual Croak of Election](meetings-and-communication.md#annual-croak-of-election).
+Officers hold their title for a period of one year, which begins immediately after the [Annual Croak of Election.](meetings-and-communication.md#annual-croak-of-election)
 
 Officers who are croaked in at any time outside of the Annual Croak of Election hold their office until the next Annual Croak of Election.
 
