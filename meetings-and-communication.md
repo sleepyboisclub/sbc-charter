@@ -42,20 +42,6 @@ One meetup \[Croak] must be a community service or charity project annually. Thi
 
 In the case that a member is unable to attend the Annual Community Service Project, an alternative project may be approved by [Unanimous Croak](decision-making-process.md#unanimous-croak) to meet the [Responsibilities of Membership](membership-criteria-and-responsibilities.md#responsibilities-of-membership).
 
-## Croaking (Communication)
-
-The SBC hosts public digital third places in the form of discussion platforms, publications, and social media accounts.
-
-Pre-Croak Study Guides and Post-Croak Post Croaks are published monthly and shared on appropriate communication channels as a catalyst for topical discussion \[croaking] outside of meetups \[Croaks].
-
-### Derivative Media
-
-The SBC publishes topical and thoughtful derivative content to public platforms. Members and Guests are encouraged to create content and derivative media that is consistent with the [SBC Mission](mission-statement.md) for publication on official SBC platforms and accounts. All content published to official SBC social media accounts is the purview of the Communications Chair with guidance from the Executive Committee.
-
-## Croaks (Public Events)
-
-When appropriate, the SBC participates in and may host public events \[Croaks]. Official SBC events and participation in community events is the purview of the Public Relations Representative and Executive Committee.
-
 ## Annual Croak of Election
 
 The Annual Croak of Election is a meetup \[Croak] activity wherein members and officers are voted into the club for the year.
@@ -69,3 +55,17 @@ The [deliberation](decision-making-process.md#deliberation-and-timeline) of all 
 3. Creation of an Executive Committee Proposal
 4. Executive Committee Proposal must be passed by Unanimous Croak
 5. Call to disorder by the incumbent President
+
+## Croaking (Communication)
+
+The SBC hosts public digital third places in the form of discussion platforms, publications, and social media accounts.
+
+Pre-Croak Study Guides and Post-Croak Post Croaks are published monthly and shared on appropriate communication channels as a catalyst for topical discussion \[croaking] outside of meetups \[Croaks].
+
+### Derivative Media
+
+The SBC publishes topical and thoughtful derivative content to public platforms. Members and Guests are encouraged to create content and derivative media that is consistent with the [SBC Mission](mission-statement.md) for publication on official SBC platforms and accounts. All content published to official SBC social media accounts is the purview of the Communications Chair with guidance from the Executive Committee.
+
+## Croaks (Public Events)
+
+When appropriate, the SBC participates in and may host public events \[Croaks]. Official SBC events and participation in community events is the purview of the Public Relations Representative and Executive Committee.
