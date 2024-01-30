@@ -2,7 +2,7 @@
 
 The SBC operates under and by direction of its Executive Committee, comprising all elected club officers, which bears the responsibility of fulfilling the [SBC Mission](mission-statement.md) according to the desires of club membership.
 
-### Officers and Committees
+## Officers and Committees
 
 Given that the SBC operates on volunteer efforts and limited resources, the structure of club leadership is mostly undefined to avoid an excessive number of vacant offices.
 
@@ -10,7 +10,7 @@ Members are encouraged to volunteer as club officers, taking responsibility for 
 
 Individuals who do not wish to form part of the Executive Committee but would like to contribute to achieving the [Club Mission](mission-statement.md) may participate in an ad hoc committee. A committee may include non-member individuals but a committee head must be a member and elected by [Unanimous Croak](decision-making-process.md#unanimous-croak).
 
-#### Club Operations
+### Club Operations
 
 * Executive Administration (President)
   * Accountable for the success of all officers and officer duties.
