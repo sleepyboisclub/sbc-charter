@@ -42,7 +42,7 @@ One meetup \[Croak] must be a community service or charity project annually. Thi
 
 In the case that a member is unable to attend the Annual Community Service Project, an alternative project may be approved by [Unanimous Croak](decision-making-process.md#unanimous-croak) to meet the [Responsibilities of Membership](membership-criteria-and-responsibilities.md#responsibilities-of-membership).
 
-## Annual Croak of Election
+### Annual Croak of Election
 
 The Annual Croak of Election is a meetup \[Croak] activity wherein members and officers are voted into the club for the year.
 
