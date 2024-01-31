@@ -1,6 +1,6 @@
 # Leadership Structure
 
-The SBC operates under and by direction of its Executive Committee, comprising all elected club officers, which bears the responsibility of fulfilling the [SBC Mission](mission-statement.md) according to the desires of club membership.
+The SBC operates under and by direction of its Executive Committee, comprising all elected club officers, which bears the responsibility of fulfilling the [Club Mission](mission-statement.md) according to the desires of club membership.
 
 ## Officers and Committees
 
