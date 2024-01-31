@@ -36,6 +36,6 @@ SBC Membership extends for a maximum period of one year, automatically and invar
 
 ## Termination of Membership
 
-A member may terminate their membership at any time by request to the Membership Chair.
+A member may terminate their membership at any time by request to the Executive Committee.
 
 When failure to comply with the [Responsibilities of Membership](membership-criteria-and-responsibilities.md#responsibilities-of-membership) becomes a hindrance to the [Club mission](mission-statement.md), a [proposal](decision-making-process.md#proposals) for membership termination may be made at any time by any club member and must be passed by [Unanimous Croak](decision-making-process.md#unanimous-croak).

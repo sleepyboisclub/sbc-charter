@@ -46,7 +46,7 @@ In the case that a member is unable to attend the Annual Community Service Proje
 
 The Annual Croak of Election is a meetup \[Croak] activity wherein members and officers are voted into the club for the year.
 
-The [deliberation](decision-making-process.md#deliberation-and-timeline) of all Annual Croak of Election decisions occurs in the course of the meetup \[Croak], rather than spanning the time between two croaks according to the process of [Unanimous Croak](decision-making-process.md#unanimous-croak).
+The [deliberation](decision-making-process.md#deliberation-and-timeline) of all Annual Croak of Election decisions occurs in the course of the meetup \[Croak], rather than spanning the time between two meetups \[Croaks] according to the process of [Unanimous Croak](decision-making-process.md#unanimous-croak).
 
 #### Election Process
 
@@ -64,8 +64,8 @@ Pre-Croak Study Guides and Post-Croak Post Croaks are published monthly and shar
 
 ### Derivative Media
 
-The SBC publishes topical and thoughtful derivative content to public platforms. Members and Guests are encouraged to create content and derivative media that is consistent with the [SBC Mission](mission-statement.md) for publication on official SBC platforms and accounts. All content published to official SBC social media accounts is the purview of the Communications Chair with guidance from the Executive Committee.
+The SBC publishes topical and thoughtful derivative content to public platforms. Members and Guests are encouraged to create content and derivative media that is consistent with the [Club Mission](mission-statement.md) for publication on official SBC platforms and accounts. All content published to official SBC social media accounts is the purview of the Executive Committee.
 
 ## Croaks (Public Events)
 
-When appropriate, the SBC participates in and may host public events \[Croaks]. Official SBC events and participation in community events is the purview of the Public Relations Representative and Executive Committee.
+When appropriate, the SBC participates in and may host public events \[Croaks]. Official SBC events and participation in community events is to be coordinated by the Executive Committee with input from club membership.
