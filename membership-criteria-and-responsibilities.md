@@ -10,7 +10,7 @@ Membership in the SBC means being a stakeholder in the Club Mission by both deri
 2. Connect with the SBC community
 3. Be voted in by [Unanimous Croak](decision-making-process.md#unanimous-croak)
 
-The only barrier to entry in the SBC is a vested interest in the [Club Mission](mission-statement.md). An individual may be considered for membership after connecting to the SBC community through participation at in-person activities or in online forums for a period comprising six of the last 12 months and demonstrating a willingness to observe the Code of Conduct. \[💀 _Put simply, you must pass the vibe check._]
+The only barrier to entry in the SBC is a vested interest in the [Club Mission](mission-statement.md). An individual may be considered for membership after connecting to the SBC community through participation at in-person activities or in online forums for a period comprising six of the last 12 months and demonstrating a willingness to observe the Code of Conduct 💀 _(Put simply, you must pass the vibe check)_.
 
 ## Responsibilities of Membership
 
