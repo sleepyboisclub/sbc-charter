@@ -38,7 +38,7 @@ Guests may attend Croaks in-person by way of invitation from an SBC member. Gues
 
 ### Annual Community Service Project
 
-One meetup \[Croak] must be a community service or charity project annually. This Croak is to be planned under the guidance of the Executive Committee, according to the input of club membership.
+One meetup \[Croak] must be a community service or charity project annually. This meetup \[Croak] is to be planned under the guidance of the Executive Committee, according to the input of club membership.
 
 In the case that a member is unable to attend the Annual Community Service Project, an alternative project may be approved by [Unanimous Croak](decision-making-process.md#unanimous-croak) to meet the [Responsibilities of Membership](membership-criteria-and-responsibilities.md#responsibilities-of-membership).
 
@@ -46,7 +46,7 @@ In the case that a member is unable to attend the Annual Community Service Proje
 
 The Annual Croak of Election is a meetup \[Croak] activity wherein members and officers are voted into the club for the year.
 
-The [deliberation](decision-making-process.md#deliberation-and-timeline) of all Annual Croak of Election decisions occurs in the course of the meetup croak, rather than spanning the time between two croaks according to the process of [Unanimous Croak](decision-making-process.md#unanimous-croak).
+The [deliberation](decision-making-process.md#deliberation-and-timeline) of all Annual Croak of Election decisions occurs in the course of the meetup \[Croak], rather than spanning the time between two croaks according to the process of [Unanimous Croak](decision-making-process.md#unanimous-croak).
 
 #### Election Process
 
