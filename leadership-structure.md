@@ -47,9 +47,7 @@ In order to be eligible to hold office, candidates must:
 
 ### Term of Office
 
-Officers hold their title for a period of one year, which begins immediately after the [Annual Croak of Election.](meetings-and-communication.md#annual-croak-of-election)
-
-Officers who are croaked in at any time outside of the Annual Croak of Election hold their office until the next Annual Croak of Election.
+Officers hold their title for a maximum period of one year, relinquishing office at the [Annual Croak of Election.](meetings-and-communication.md#annual-croak-of-election)
 
 ### Removal from Office
 
