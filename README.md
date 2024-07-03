@@ -10,8 +10,12 @@ Charter version history: [https://github.com/sleepyboisclub/sbc-charter/commits/
 
 ### Signers of this version of the Charter
 
-* Signatures
-* of
-* signers
-* here
-* 💀💤
+* 💀🪄
+* 🆗
+* J🐵M
+* Mountain Goat
+* Michaelann
+* Elisa
+*   Joseph
+
+    \
