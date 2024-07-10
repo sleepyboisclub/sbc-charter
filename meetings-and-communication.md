@@ -2,7 +2,7 @@
 
 Meetings and communication are facilitated with the goal of reviving sincerity in third places, according to the [Club Mission](mission-statement.md). This section outlines the basic guidelines for regular SBC activities, communications, and events, all of which are referred to as “Croaks.”
 
-💀 _The SBC is cognizant of the confounding nature of homonominalizing terms that are critical to the nature and administrative functions of the SBC. We find this obfuscation delightfully absurd and hope this confounding word puzzle brings you the same amusement it does us._
+💀 _The SBC is cognizant of the befuddlement caused by the homonymization of critical administrative terms. We hope that this delightfully absurd obfuscation brings you the same amusement it does us._
 
 ## Croaks (Meetups)
 

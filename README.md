@@ -2,9 +2,9 @@
 
 This is the current and active version of the Charter of the Sleepy Bois Club.
 
-Version: 1.0
+Version: 2
 
-Date ratified: February 5th, 2024
+Date ratified: TBD
 
 Charter version history: [https://github.com/sleepyboisclub/sbc-charter/commits/main/](https://github.com/sleepyboisclub/sbc-charter/commits/main/)
 
@@ -16,6 +16,4 @@ Charter version history: [https://github.com/sleepyboisclub/sbc-charter/commits/
 * Mountain Goat
 * Michaelann
 * Elisa
-*   Joseph
-
-    \
+* Joseph
