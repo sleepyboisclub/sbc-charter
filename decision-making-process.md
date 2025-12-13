@@ -4,7 +4,7 @@ Congruent with the foundational optimism of the [Club Mission](mission-statement
 
 ## Unanimous Croak
 
-Unanimous Croak is a consensus process whereby the voice of each member is _essential_ to every club decision. Informed by the dually communal and personal nature of the [Club Mission](mission-statement.md), this process facilitates individual influence and group cohesion in setting the course of the SBC.
+Unanimous Croak is a consensus process whereby the voice of each member is _essential_ to every club decision. Informed by the dually communal and personal nature of the [Club Mission](mission-statement.md), this process facilitates individual influence and group cohesion in setting the course of the KMC.
 
 ### Requirements for Successful Unanimous Croak
 
@@ -14,7 +14,7 @@ The requirements for reaching Unanimous Croak align with the general principles 
 2. All dissent, reservations, and reasons for standing aside must have been recorded.
 3. No member must have acted to block the proposal.
 
-Given that each voice is essential in setting the course of the SBC, a [proposal](decision-making-process.md#proposals) cannot pass without unanimous consent. Dissenters are integral to Unanimous Croak but also bear the [Duty of Dissent](decision-making-process.md#duty-of-dissent).
+Given that each voice is essential in setting the course of the KMC, a [proposal](decision-making-process.md#proposals) cannot pass without unanimous consent. Dissenters are integral to Unanimous Croak but also bear the [Duty of Dissent](decision-making-process.md#duty-of-dissent).
 
 All decisions regarding club administration require the unanimous croak of all membership. Club administration includes (but is not limited to): members and membership, club officers, amendments to the Charter, and the public image of the Club
 
@@ -50,14 +50,14 @@ Dissent is encouraged and necessary when members do not agree with a proposal. D
 
 When dissent occurs, at least one dissenting member must articulate the reasons for their dissent. All dissenting members are encouraged to consider and communicate conditions that would resolve their reservations for the sake of other members and the [Club Mission](mission-statement.md).
 
-When participating in a Unanimous Croak, an accommodating, respectful, and humble disposition is expected of members who hold majority and minority opinions alike. 💀 _Remember that SBC decisions are of little significance in the grand scheme of things._
+When participating in a Unanimous Croak, an accommodating, respectful, and humble disposition is expected of members who hold majority and minority opinions alike. 💀 _Remember that KMC decisions are of little significance in the grand scheme of things._
 
 #### Absence
 
-In the case that a club member is unable to participate in a Unanimous Croak due to absence at Croaks and in regular SBC communication channels, a Unanimous Croak may succeed without the voice of the absent member if and only if reasonable attempts have been made to contact the absent member and the time for deliberation has expired. Repeated absence may constitute grounds for terminating membership according to the membership responsibility of invested and active participation 💀 _(Don't caucus block us)_.&#x20;
+In the case that a club member is unable to participate in a Unanimous Croak due to absence at Croaks and in regular KMC communication channels, a Unanimous Croak may succeed without the voice of the absent member if and only if reasonable attempts have been made to contact the absent member and the time for deliberation has expired. Repeated absence may constitute grounds for terminating membership according to the membership responsibility of invested and active participation 💀 _(Don't caucus block us)_.
 
-### Election Croak of the Sleepy Boi King
+### Election Croak of the Kind Minds Club King
 
-The Sleepy Boi King is a 💀 _meaningless_ title assigned to someone or something at every Croak.
+The Kind Minds Club King is a 💀 _meaningless_ title assigned to someone or something at every Croak.
 
-The Election of the Sleepy Boi King is a habitual practice in reaching Unanimous Croak 💀 _by voting on something that we know is meaningless because we made it up_.
+The Election of the Kind Minds Club King is a habitual practice in reaching Unanimous Croak 💀 _by voting on something that we know is meaningless because we made it up_.

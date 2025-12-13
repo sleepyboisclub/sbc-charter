@@ -1,6 +1,6 @@
 # Preamble
 
-**WE THE MEMBERS OF THE SLEEPY BOIS CLUB**
+**WE THE MEMBERS OF THE KIND MINDS CLUB**
 
 **ACKNOWLEDGE**
 
@@ -20,4 +20,4 @@ and that magnanimous and impartial kindness is essential to but presently absent
 
 **FORGE A PATH FORWARD IN THE PURSUIT OF MEANING**
 
-through the establishment of this club where–_with a spirit of defiance against and a knowing smile for the realities of the human condition_–individuals may reprieve the pains of loneliness with a community unified in the sisyphean search for meaning, purpose, and fulfillment.
+through the establishment of this club where–_with a spirit of defiance against and a knowing smile for the realities of the human condition_–individuals may reprieve the pains of loneliness with a community unified in the Sisyphean search for meaning, purpose, and fulfillment.

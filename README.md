@@ -1,21 +1,20 @@
-# 📜 The Sleepy Bois Club Charter
+# 💀 The Kind Minds Club Charter
 
-This is the current and active version of the Charter of the Sleepy Bois Club.
+This is the current and active version of the Charter of the Kind Minds Club.
 
-Version: 1.0
+Version: 2.0
 
-Date ratified: February 5th, 2024
+Date ratified: December 13th, 2025
 
-Charter version history: [https://github.com/sleepyboisclub/sbc-charter/commits/main/](https://github.com/sleepyboisclub/sbc-charter/commits/main/)
+Charter version history: [https://github.com/kindmindsclub/kmc-charter/commits/main/](https://github.com/kindmindsclub/kmc-charter/commits/main/)
 
 ### Signers of this version of the Charter
 
 * 💀🪄
 * 🆗
-* J🐵M
 * Mountain Goat
-* Michaelann
+* Joseph
 * Elisa
-*   Joseph
+* J🐵M
+* Robbie
 
-    \

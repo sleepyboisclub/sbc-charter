@@ -1,12 +1,12 @@
 # Leadership Structure
 
-The SBC operates under and by direction of its Executive Committee, comprising all elected club officers, which bears the responsibility of fulfilling the [Club Mission](mission-statement.md) according to the desires of club membership.
+The KMC operates under and by direction of its Executive Committee, comprising all elected club officers, which bears the responsibility of fulfilling the [Club Mission](mission-statement.md) according to the desires of club membership.
 
 ## Officers and Committees
 
-Given that the SBC operates on volunteer efforts and limited resources, the structure of club leadership is mostly undefined to avoid an excessive number of vacant offices.
+Given that the KMC operates on volunteer efforts and limited resources, the structure of club leadership is mostly undefined to avoid an excessive number of vacant offices.
 
-Members are encouraged to volunteer as club officers, taking responsibility for any combination of club operations and creating a title of office fitting to the responsibilities undertaken. The club President–the only necessary SBC office–takes accountability for the success of all officers and officer duties.
+Members are encouraged to volunteer as club officers, taking responsibility for any combination of club operations and creating a title of office fitting to the responsibilities undertaken. The club President–the only necessary KMC office–takes accountability for the success of all officers and officer duties.
 
 Individuals who do not wish to form part of the Executive Committee but would like to contribute to achieving the [Club Mission](mission-statement.md) may participate in an ad hoc committee. A committee may include non-member individuals but a committee head must be a member and elected by [Unanimous Croak](decision-making-process.md#unanimous-croak).
 
@@ -26,17 +26,17 @@ Individuals who do not wish to form part of the Executive Committee but would li
   * May solicit members by requesting payment of club membership dues
 * Communications
   * Writes/edits communications including newsletters, invitations, and broadcast emails
-  * Coordinates the maintenance of SBC digital third places
+  * Coordinates the maintenance of KMC digital third places
 * Programming
   * Plans and organizes events that align with the Club Mission
 * Public Relations
   * Maintain relationships and increase engagement with community partners
 * History
-  * Keeps a permanent record of all official club croaks, including club administration changes; official club meetups, posts, and events; Sleepy Boi Kings; and any other notes of interest in club history.
+  * Keeps a permanent record of all official club croaks, including club administration changes; official club meetups, posts, and events; Kind Mind Club Kings; and any other notes of interest in club history.
 
 ### Officer Election
 
-All SBC participation is voluntary. As such, SBC offices are appointed by way of volition and not by way of delegation or nomination. All members are encouraged to volunteer as club officers.
+All KMC participation is voluntary. As such, KMC offices are appointed by way of volition and not by way of delegation or nomination. All members are encouraged to volunteer as club officers.
 
 Officers are croaked in at the [Annual Croak of Election](meetings-and-communication.md#annual-croak-of-election), or as necessary by [Unanimous Croak](decision-making-process.md#unanimous-croak) in the case of vacancy.
 

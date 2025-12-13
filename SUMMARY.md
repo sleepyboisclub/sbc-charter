@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📜 The Sleepy Bois Club Charter](README.md)
+* [💀 The Kind Minds Club Charter](README.md)
 * [Preamble](preamble.md)
 * [Mission Statement](mission-statement.md)
 * [Membership](membership-criteria-and-responsibilities.md)
